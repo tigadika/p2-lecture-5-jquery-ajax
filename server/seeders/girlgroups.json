@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "ITZY",
+    "company": "JYP Entertaiment",
+    "imgUrl": "https://studio.mrngroup.co/storage/app/media/Prambors/Editorial%202/ITZY-20230207142906.webp?tr=w-300"
+  },
+  {
+    "id": 2,
+    "name": "aespa",
+    "company": "SM Entertaiment",
+    "imgUrl": "https://assets.ayobandung.com/crop/0x0:0x0/750x500/webp/photo/2023/03/20/thumbanil-aespa-hyper-line-1743073273.jpeg"
+  },
+  {
+    "id": 3,
+    "name": "LOONA",
+    "company": "Blockberry Creative",
+    "imgUrl": "https://i0.wp.com/img.celebrities.id/okz/900/jN5i78/master_5kI61dq99s_1546_loona.jpg?w=720&ssl=1"
+  },
+  {
+    "id": 4,
+    "name": "(G)I-Dle",
+    "company": "Cube Entertaiment",
+    "imgUrl": "https://imgix.ranker.com/user_node_img/4269/85374730/original/85374730-photo-u5?auto=format&q=60&fit=crop&fm=pjpg&dpr=2&w=650"
+  },
+  {
+    "name": "Blackpink",
+    "company": "YG Entertaiment",
+    "imgUrl": "https://yt3.googleusercontent.com/hZDUwjoeQqigphL4A1tkg9c6hVp5yXmbboBR7PYFUSFj5PIJSA483NB5v7b0XVoTN9GCku3tqQ=s900-c-k-c0x00ffffff-no-rj",
+    "id": 5
+  },
+  {
+    "name": "Lee Sserafim",
+    "company": "HYBE",
+    "imgUrl": "https://www.billboard.com/wp-content/uploads/2023/04/LE-SSERAFIM-press-credit-SOURCE-MUSIC-2023-billboard-exclusive-1548.jpg",
+    "id": 6
+  }
+]
